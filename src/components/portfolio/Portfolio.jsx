@@ -11,7 +11,7 @@ const items = [
   {
     id: 1,
     title: "Test Drive",
-    img: 'src/assets/Screenshot 2023-10-15 at 6.05.00 PM.png',
+    img: '/Screenshot 2023-10-15 at 6.05.00 PM.png',
     desc: "The goal of this project was to pretend A client has requested that we add a page to their website for scheduling a test drive. This was built over 3 days for a frontend engineering interview using React.js",
     demoUrl: 'https://beautiful-frangollo-547a96.netlify.app/',
 
@@ -19,7 +19,7 @@ const items = [
   {
     id: 2,
     title: "The Door",
-    img: 'src/assets/Screenshot 2023-10-15 at 6.11.46 PM.png',
+    img: '/Screenshot 2023-10-15 at 6.11.46 PM.png',
     desc: "The goal of this project was to faithfully recreate a UX teams designs in a fully-functioning format. The Get Involved dropdown allows the user to select Volunteer, which will lead them to a page where they fill out a form to volunteer. Upon creating a submission, the user will have a chance to read their information and confirm, edit, or delete their volunteer registration.",
     demoUrl: 'https://the-door-nyc.netlify.app/',
 
@@ -28,7 +28,7 @@ const items = [
   {
     id: 3,
     title: "Fork Over Spoon",
-    img: 'src/assets/Screenshot 2023-10-15 at 6.07.49 PM.png',
+    img: '/Screenshot 2023-10-15 at 6.07.49 PM.png',
     desc: "Fork over spoon is a food app that lets you search recipes by food names. After you find a recipe you like you can click a link and be redirected to a detailed recipe. This app pulls data from the Edamam API.",
     demoUrl: 'https://pages.git.generalassemb.ly/Rico/Forkoverspoon/',
 
@@ -36,7 +36,7 @@ const items = [
   {
     id: 4,
     title: "Everycent",
-    img: 'src/assets/Screenshot 2023-10-15 at 6.10.20 PM.png',
+    img: '/Screenshot 2023-10-15 at 6.10.20 PM.png',
     desc: "Everycent is a personal expense tracker. Everycent allow users to track their expenses and to analyze them. The core functionality here is adding records of the cash flow. Expenses will be divided by categories and the users will be able to create and delete expenses.",
     demoUrl: 'https://frosty-borg-1a49b1.netlify.app/',
 
